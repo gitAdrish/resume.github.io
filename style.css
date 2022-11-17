@@ -1,0 +1,38 @@
+body{
+    background:linear-gradient(#536976,#292E49);
+    font-family: 'Nunito', sans-serif;
+    color: rgb(251, 246, 255);
+}
+
+fieldset{
+    background:linear-gradient(#393E46,#393E46) ;
+    border: 0;
+    border-radius: 6px;
+    width: 500px;
+    margin: 0 0 0 31%;
+    box-shadow:0 0 15px 0 #533483;
+    font-family: 'Nunito', sans-serif;
+    color: #F9F9F9;
+}
+legend{
+    font-size: 25px;
+    text-shadow:2px 2px 2px #2C3333;
+}
+.submit{
+    margin: 10px 0 10px  0;
+    width: 100%;
+    background: #ECC5FB;
+}
+.submit:hover{
+    color:rgb(156, 0, 0);
+    /* background:linear-gradient(#434343,#000000); */
+    background: rgb(189, 189, 189);
+    transition-duration: 500ms;
+}
+input{
+    border: 0;
+    border-radius: 3px;
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    font-weight: 900;
+}
